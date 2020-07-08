@@ -1,0 +1,6 @@
+C:\Users\Outbuilt\source\repos\Yolo Spammer\Yolo Spammer\bin\Debug\Yolo Spammer.exe.config
+C:\Users\Outbuilt\source\repos\Yolo Spammer\Yolo Spammer\bin\Debug\Yolo Spammer.exe
+C:\Users\Outbuilt\source\repos\Yolo Spammer\Yolo Spammer\bin\Debug\Yolo Spammer.pdb
+C:\Users\Outbuilt\source\repos\Yolo Spammer\Yolo Spammer\obj\Debug\Yolo Spammer.csprojAssemblyReference.cache
+C:\Users\Outbuilt\source\repos\Yolo Spammer\Yolo Spammer\obj\Debug\Yolo Spammer.exe
+C:\Users\Outbuilt\source\repos\Yolo Spammer\Yolo Spammer\obj\Debug\Yolo Spammer.pdb
